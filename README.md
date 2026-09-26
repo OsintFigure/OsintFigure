@@ -6,7 +6,6 @@ I'm not Mark. I am a cybersecurity specialist studying the world and networks, h
 
 Skills: CYBERSECURITY / PYTHON / JS / HTML / C++ / LINUX / WINDOWS
 
-- 🔭 I’m currently working on this page. 
 
 
 
